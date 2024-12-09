@@ -7,6 +7,9 @@ public class Main {
 public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("Autor EAC 4: Sergio Ramírez Luque");
+        System.out.println("e aprés molt fent el mòdul de DAW encara que hagi estat dur!!!");
+        
         System.out.println("Introdueix la mida de l'array: ");
         int size = scanner.nextInt();
 
